@@ -1,0 +1,8 @@
+pymongo
+mongoengine
+pymongo_mate
+mongoengine_mate
+
+scrapy
+crawlib
+scrapy-fake-useragent
