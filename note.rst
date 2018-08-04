@@ -4,6 +4,4 @@
 - Log in and then crawl: https://doc.scrapy.org/en/latest/topics/request-response.html#request-usage-examples
 - Save item to MongoDB: https://doc.scrapy.org/en/latest/topics/item-pipeline.html#write-items-to-mongodb
 
-
-
-    multiprocessing.dummy replicates the API of multiprocessing but is no more than a wrapper around the threading module.
+multiprocessing.dummy replicates the API of multiprocessing but is no more than a wrapper around the threading module.

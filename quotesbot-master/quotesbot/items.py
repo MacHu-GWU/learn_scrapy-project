@@ -6,6 +6,7 @@
 # http://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
+from mongoengine import connect
 
 
 class QuotesbotItem(scrapy.Item):

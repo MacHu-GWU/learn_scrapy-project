@@ -1,0 +1,6 @@
+scrapy
+requests
+bs4
+sqlalchemy_mate==0.0.3
+mongoengine_mate==0.0.3
+mongomock_mate==0.0.1
